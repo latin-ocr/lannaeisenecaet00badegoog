@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeisenecaet00badegoog_0357.png"; bbox 0 0 2782 4733; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 781 1826 1902 1937">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 781 1826 1902 1937">
+     <span class='ocr_line' id='line_1_1' title="bbox 781 1826 1902 1937; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 781 1826 1902 1937; x_wconf 70' lang='lat' dir='ltr'><strong>INDEX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 304 2044 2363 2221">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 304 2044 2363 2221">
+     <span class='ocr_line' id='line_1_2' title="bbox 304 2044 2363 2127; baseline -0.001 -18"><span class='ocrx_word' id='word_1_2' title='bbox 304 2044 655 2125; x_wconf 79' lang='lat' dir='ltr'><strong>EORUM,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 686 2052 954 2127; x_wconf 55' lang='lat' dir='ltr'><strong>,QUAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 988 2052 1080 2109; x_wconf 88' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1110 2051 1391 2112; x_wconf 76' lang='lat' dir='ltr'><strong>,NOTIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1428 2044 2132 2110; x_wconf 76' lang='lat' dir='ltr'>ILLUSTRANTUR</span> <span class='ocrx_word' id='word_1_7' title='bbox 2178 2046 2363 2107; x_wconf 86' lang='lat' dir='ltr'><strong>AUT</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 998 2150 1663 2221; baseline -0.002 -9"><span class='ocrx_word' id='word_1_8' title='bbox 998 2150 1663 2221; x_wconf 75' lang='lat' dir='ltr'><strong>EXPLICANTUR.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
